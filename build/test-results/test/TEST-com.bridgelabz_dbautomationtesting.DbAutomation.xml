@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bridgelabz_dbautomationtesting.DbAutomation" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-08-20T06:31:21" hostname="DESKTOP-RUA6ENJ" time="0.955">
+  <properties/>
+  <testcase name="dbTest_InsertData" classname="com.bridgelabz_dbautomationtesting.DbAutomation" time="0.955"/>
+  <system-out><![CDATA[Connecting to database: jdbc:mysql://localhost:3306/uploadcsv
+Successfully inserted
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
